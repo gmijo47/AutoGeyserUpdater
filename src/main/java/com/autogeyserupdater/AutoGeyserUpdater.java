@@ -6,7 +6,7 @@ import java.io.*;
 import java.net.*;
 
 public class AutoGeyserUpdater extends Plugin {
-    private static final String GEYSER_URL = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/lastSuccessfulBuild/artifact/bootstrap/bungee/target/Geyser-BungeeCord.jar";
+    private static final String GEYSER_URL = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/lastSuccessfulBuild/artifact/bootstrap/bungeecord/build/libs/Geyser-BungeeCord.jar";
     private static final String GEYSER_FILE = "Geyser-BungeeCord.jar";
 
     @Override
