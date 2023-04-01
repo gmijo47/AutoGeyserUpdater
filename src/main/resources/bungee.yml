@@ -1,3 +1,5 @@
 name: AutoGeyserUpdater
 version: '${project.version}'
-main: com.autogeyserupdater.AutoGeyserUpdater
+author: gmijo
+description: Automatic GeyserUpdater made for SERB-CRAFT Network
+main: com.serbcraft.autogeyserupdater.AutoGeyserUpdater
