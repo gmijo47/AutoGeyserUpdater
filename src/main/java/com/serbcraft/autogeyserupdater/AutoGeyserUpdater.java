@@ -34,7 +34,7 @@ public class AutoGeyserUpdater extends Plugin {
 
     @Override
     public void onDisable() {
-        getLogger().info(ChatColor.translateAlternateColorCodes('&', "&4Disabling SERB-CRAFT Geyser Auto Updater!")
+        getLogger().info(ChatColor.translateAlternateColorCodes('&', "&4Disabling SERB-CRAFT Geyser Auto Updater!"));
     }
 
     private void checkForUpdate() throws IOException {
