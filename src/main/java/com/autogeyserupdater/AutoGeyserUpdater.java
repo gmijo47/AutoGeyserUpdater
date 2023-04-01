@@ -37,7 +37,7 @@ public class AutoGeyserUpdater extends Plugin {
                 getLogger().info("Geyser update available, downloading...");
                 downloadGeyser(url);
             } else {
-                getLogger().info("Geyser is up to date.");
+                getLogger().info("Geyser is up to date!");
             }
         } else {
             getLogger().info("Geyser not found, downloading...");
